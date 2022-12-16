@@ -1,5 +1,5 @@
 Drill report for necpc8801l.kicad_pcb
-Created on Thu 15 Dec 2022 09:25:27 PM EST
+Created on Thu 15 Dec 2022 09:58:24 PM EST
 
 Copper Layer Stackup:
     =============================================================
@@ -10,14 +10,14 @@ Copper Layer Stackup:
 Drill file 'necpc8801l-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (539 holes)
+    T1  0.400mm  0.0157"  (540 holes)
     T2  0.900mm  0.0354"  (12 holes)
     T3  1.470mm  0.0579"  (192 holes)
     T4  1.500mm  0.0591"  (1 hole)
     T5  2.000mm  0.0787"  (192 holes)
     T6  2.700mm  0.1063"  (1 hole)
 
-    Total plated holes count 937
+    Total plated holes count 938
 
 
 Drill file 'necpc8801l-NPTH.drl' contains
