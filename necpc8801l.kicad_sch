@@ -3808,7 +3808,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 47.625 0)
@@ -3819,7 +3819,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_STP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_STP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -3955,7 +3955,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 47.625 0)
@@ -3966,7 +3966,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4007,7 +4007,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 47.625 0)
@@ -4018,7 +4018,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4059,7 +4059,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 47.625 0)
@@ -4070,7 +4070,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4111,7 +4111,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 47.625 0)
@@ -4122,7 +4122,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4163,7 +4163,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 47.625 0)
@@ -4174,7 +4174,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4215,7 +4215,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 47.625 0)
@@ -4226,7 +4226,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RLU_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RLU_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4267,7 +4267,7 @@
     (property "Value" "MX-NoLED" (at 284.0482 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 267.335 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 267.335 47.625 0)
@@ -4278,7 +4278,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RLD_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RLD_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4319,7 +4319,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 47.625 0)
@@ -4330,7 +4330,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPHOME_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPHOME_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4578,7 +4578,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 66.675 0)
@@ -4589,7 +4589,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP9_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP9_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4630,7 +4630,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 66.675 0)
@@ -4641,7 +4641,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP7_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP7_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4682,7 +4682,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 66.675 0)
@@ -4693,7 +4693,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_YEN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_YEN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4734,7 +4734,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 66.675 0)
@@ -4745,7 +4745,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_0_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_0_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4786,7 +4786,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 66.675 0)
@@ -4797,7 +4797,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_8_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_8_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4838,7 +4838,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 66.675 0)
@@ -4849,7 +4849,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4890,7 +4890,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 66.675 0)
@@ -4901,7 +4901,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4942,7 +4942,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 66.675 0)
@@ -4953,7 +4953,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_ESC_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_ESC_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -4968,7 +4968,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 66.675 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 66.675 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 66.675 0)
@@ -4979,7 +4979,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_6_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_6_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5046,7 +5046,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 85.725 0)
@@ -5057,7 +5057,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP6_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP6_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5098,7 +5098,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 85.725 0)
@@ -5109,7 +5109,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5150,7 +5150,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 85.725 0)
@@ -5161,7 +5161,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_FC_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_FC_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5202,7 +5202,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 85.725 0)
@@ -5213,7 +5213,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_P_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_P_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5254,7 +5254,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 85.725 0)
@@ -5265,7 +5265,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_I_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_I_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5306,7 +5306,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 85.725 0)
@@ -5317,7 +5317,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_R_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_R_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5358,7 +5358,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 85.725 0)
@@ -5369,7 +5369,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_W_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_W_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5410,7 +5410,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 85.725 0)
@@ -5421,7 +5421,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_TAB_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_TAB_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5436,7 +5436,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 85.725 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 85.725 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 85.725 0)
@@ -5447,7 +5447,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_Y_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_Y_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5514,7 +5514,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 104.775 0)
@@ -5525,7 +5525,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5566,7 +5566,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 104.775 0)
@@ -5577,7 +5577,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5618,7 +5618,7 @@
     (property "Value" "MX-NoLED" (at 284.0482 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 267.335 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 267.335 104.775 0)
@@ -5629,7 +5629,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_ED_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_ED_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5670,7 +5670,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 104.775 0)
@@ -5681,7 +5681,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_COL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_COL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5722,7 +5722,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 104.775 0)
@@ -5733,7 +5733,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_L_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_L_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5774,7 +5774,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 104.775 0)
@@ -5785,7 +5785,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_J_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_J_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5826,7 +5826,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 104.775 0)
@@ -5837,7 +5837,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_D_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_D_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5878,7 +5878,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 104.775 0)
@@ -5889,7 +5889,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_A_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_A_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5930,7 +5930,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 104.775 0)
@@ -5941,7 +5941,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CTRL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CTRL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -5956,7 +5956,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 104.775 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 104.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 104.775 0)
@@ -5967,7 +5967,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_G_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_G_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6034,7 +6034,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 123.825 0)
@@ -6045,7 +6045,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPPER_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPPER_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6086,7 +6086,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 123.825 0)
@@ -6097,7 +6097,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP0_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP0_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6138,7 +6138,7 @@
     (property "Value" "MX-NoLED" (at 284.0482 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 267.335 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 267.335 123.825 0)
@@ -6149,7 +6149,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RSH_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RSH_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6190,7 +6190,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 123.825 0)
@@ -6201,7 +6201,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_AMG_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_AMG_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6242,7 +6242,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 123.825 0)
@@ -6253,7 +6253,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_GT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_GT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6294,7 +6294,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 123.825 0)
@@ -6305,7 +6305,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_M_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_M_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6346,7 +6346,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 123.825 0)
@@ -6357,7 +6357,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_C_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_C_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6398,7 +6398,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 123.825 0)
@@ -6409,7 +6409,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_Z_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_Z_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6450,7 +6450,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 123.825 0)
@@ -6461,7 +6461,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LS1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LS1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6476,7 +6476,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 123.825 0)
@@ -6487,7 +6487,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_B_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_B_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6554,7 +6554,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 142.875 0)
@@ -6565,7 +6565,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPCOM_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPCOM_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6606,7 +6606,7 @@
     (property "Value" "MX-NoLED" (at 284.0482 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 267.335 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 267.335 142.875 0)
@@ -6617,7 +6617,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RIGHT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RIGHT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6658,7 +6658,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 142.875 0)
@@ -6669,7 +6669,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LEFT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LEFT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6710,7 +6710,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 142.875 0)
@@ -6721,7 +6721,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SLS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SLS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6762,7 +6762,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 142.875 0)
@@ -6773,7 +6773,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SP2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SP2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6814,7 +6814,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 142.875 0)
@@ -6825,7 +6825,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_ALT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_ALT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6866,7 +6866,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 142.875 0)
@@ -6877,7 +6877,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SUP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SUP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6918,7 +6918,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 142.875 0)
@@ -6929,7 +6929,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LS2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LS2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -6944,7 +6944,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 142.875 0)
@@ -6955,7 +6955,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SP1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SP1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7022,7 +7022,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 161.925 0)
@@ -7033,7 +7033,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7074,7 +7074,7 @@
     (property "Value" "MX-NoLED" (at 284.0482 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 267.335 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 267.335 161.925 0)
@@ -7085,7 +7085,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_DOWN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_DOWN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7126,7 +7126,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 161.925 0)
@@ -7137,7 +7137,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_WE_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_WE_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7178,7 +7178,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 161.925 0)
@@ -7189,7 +7189,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SMI_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SMI_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7230,7 +7230,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 161.925 0)
@@ -7241,7 +7241,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7282,7 +7282,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 161.925 0)
@@ -7293,7 +7293,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_V_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_V_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7334,7 +7334,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 161.925 0)
@@ -7345,7 +7345,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_X_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_X_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7386,7 +7386,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 161.925 0)
@@ -7397,7 +7397,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CAPS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CAPS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7412,7 +7412,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 161.925 0)
@@ -7423,7 +7423,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_N_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_N_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7490,7 +7490,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 180.975 0)
@@ -7501,7 +7501,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7542,7 +7542,7 @@
     (property "Value" "MX-NoLED" (at 284.0482 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 267.335 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 267.335 180.975 0)
@@ -7553,7 +7553,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_UP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_UP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7594,7 +7594,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 180.975 0)
@@ -7605,7 +7605,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_AT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_AT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7646,7 +7646,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 180.975 0)
@@ -7657,7 +7657,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_K_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_K_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7698,7 +7698,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 180.975 0)
@@ -7709,7 +7709,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7750,7 +7750,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 180.975 0)
@@ -7761,7 +7761,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_S_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_S_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7802,7 +7802,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 180.975 0)
@@ -7813,7 +7813,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_Q_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_Q_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7828,7 +7828,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 180.975 0)
@@ -7839,7 +7839,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_H_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_H_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7906,7 +7906,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 200.025 0)
@@ -7917,7 +7917,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP8_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP8_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -7958,7 +7958,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 200.025 0)
@@ -7969,7 +7969,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_ET_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_ET_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8010,7 +8010,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 200.025 0)
@@ -8021,7 +8021,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_MN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_MN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8062,7 +8062,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 200.025 0)
@@ -8073,7 +8073,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_O_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_O_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8114,7 +8114,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 200.025 0)
@@ -8125,7 +8125,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_T_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_T_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8166,7 +8166,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 200.025 0)
@@ -8177,7 +8177,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_E_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_E_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8218,7 +8218,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 200.025 0)
@@ -8229,7 +8229,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8244,7 +8244,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 200.025 0)
@@ -8255,7 +8255,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_U_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_U_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8322,7 +8322,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 200.025 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 200.025 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 200.025 0)
@@ -8333,7 +8333,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPMULT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPMULT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8374,7 +8374,7 @@
     (property "Value" "MX-NoLED" (at 301.8282 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 285.115 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 285.115 219.075 0)
@@ -8385,7 +8385,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPHELP1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPHELP1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8426,7 +8426,7 @@
     (property "Value" "MX-NoLED" (at 266.2682 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 249.555 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 219.075 0)
@@ -8437,7 +8437,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_DEL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_DEL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8478,7 +8478,7 @@
     (property "Value" "MX-NoLED" (at 249.7582 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 233.045 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 233.045 219.075 0)
@@ -8489,7 +8489,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CAR_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CAR_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8530,7 +8530,7 @@
     (property "Value" "MX-NoLED" (at 231.9782 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 215.265 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 215.265 219.075 0)
@@ -8541,7 +8541,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_9_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_9_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8582,7 +8582,7 @@
     (property "Value" "MX-NoLED" (at 196.4182 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 179.705 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 179.705 219.075 0)
@@ -8593,7 +8593,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8634,7 +8634,7 @@
     (property "Value" "MX-NoLED" (at 179.9082 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 163.195 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 163.195 219.075 0)
@@ -8645,7 +8645,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8686,7 +8686,7 @@
     (property "Value" "MX-NoLED" (at 162.1282 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 145.415 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 145.415 219.075 0)
@@ -8697,7 +8697,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CPY_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CPY_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -8738,7 +8738,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 219.075 0)
@@ -8749,7 +8749,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPDIV_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPDIV_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -9144,7 +9144,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 142.875 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 142.875 0)
@@ -9155,7 +9155,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPENT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPENT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -9196,7 +9196,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 180.975 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 180.975 0)
@@ -9207,7 +9207,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPPLUS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPPLUS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -9222,7 +9222,7 @@
     (property "Value" "MX-NoLED" (at 214.1982 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 219.075 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 197.485 219.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 197.485 219.075 0)
@@ -9233,7 +9233,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_7_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_7_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -9490,7 +9490,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 161.925 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 161.925 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 161.925 0)
@@ -9501,7 +9501,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPEQ_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPEQ_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -9551,7 +9551,7 @@
     (property "Value" "MX-NoLED" (at 339.9282 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 323.215 123.825 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 323.215 123.825 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 323.215 123.825 0)
@@ -9562,7 +9562,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RSH_ALIAS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RSH_ALIAS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
@@ -9664,7 +9664,7 @@
     (property "Value" "MX-NoLED" (at 319.6082 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 47.625 0)
+    (property "Footprint" "MX_NEC:mx-nec-alps" (at 302.895 47.625 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 302.895 47.625 0)
@@ -9675,7 +9675,7 @@
     (instances
       (project "necpc8801l"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPMIN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPMIN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:mx-nec-alps")
         )
       )
     )
