@@ -1,0 +1,70 @@
+STP CPY  F1  F2  F3  F4  F5  RLU RLD
+
+EC 1 2 3 4 5 6 7 8 9 0 MN CAR YEN      DEL       NHM NHP NMN NSL
+TAB Q W E R T Y U U I O P AT FC         ET       N7  N8  N9  NAS
+CTL CPS A S D F G H J K L SMI COL WE    ED       N4  N5  N6  NPL
+LS1 LS2 Z X C V B N M LT GT SLS AMG    RSH UP    N1  N2  N3  NEQ
+    SUP ALT   SP1 SP2              LFT RGT DN    N0  NCM NPR NRT
+
+405mm x 135.5mm
+
+hole inner diameter, call it 1.8mm. 2mm to be safe
+8.2mm from left edge to left edge of two holes
+
+top of top/bottom hole distance from pcb top by row (in mm)
+
+1 6/7
+2 34.5/35.5 
+3 53.2/54.2
+4 72.5 73.5 
+5 91.2 92.2 
+6 110/111
+
+1U horizontally = 209/11 = 19.0
+1U vertically = apparently 18.875
+
+any non-derivable left distances (to left of leftmost hole):
+
+STP 5.2
+CPY 24.2
+F1 67
+F2 104.5
+F3 143
+F4 180.5
+F5 218.5 
+RLUP 261.3
+
+ESC 7.5
+1 29.2
+TAB 12.3
+Q 38.5 
+YEN 257
+DEL 278
+CTL 5.2 
+CAPS 24.2
+LS1 5.2 
+LS2 33.7
+Z 52.7 (+1u from LS2)
+SUP 52.8 (compare with z)
+ALT 71.7 
+SP1 147.8
+SP2 166.8
+LFT 261.6 
+AMG 242.6
+RSH 271 
+
+NHM 332.2
+FC 247 
+  ET 273.2 
+WE 251.8
+  ED 275.2 
+
+misc pcb holes (don't know if these matter)
+3.2mm across 
+row 1 (20 from top)  392
+row 2 (25 from top)  27.5  146  284 
+row 3 (95 from top)  319
+row 4 (115 from top) 32 
+row 5 (128 from top) 373
+
+
