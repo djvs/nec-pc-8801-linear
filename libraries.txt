@@ -1,0 +1,13 @@
+1	MX_NEC	${KIPRJMOD}/MX_Alps_Hybrid/MX_NEC.pretty	KiCad		
+1	random-keyboard-parts	${KIPRJMOD}/random-keyboard-parts.pretty	KiCad		
+0	Connector_JST_Sys	${KISYSMOD}/Connector_JST.pretty	KiCad		
+1	WS2812B	${KIPRJMOD}/WS2812BDual.pretty	KiCad		
+1	Capacitor_SMD	${KICAD6_FOOTPRINT_DIR}/Capacitor_SMD.pretty	KiCad		
+1	Buzzer_Beeper	${KICAD6_FOOTPRINT_DIR}/Buzzer_Beeper.pretty	KiCad		
+1	Connector_JST	${KICAD6_FOOTPRINT_DIR}/Connector_JST.pretty	KiCad		
+1	Crystal	${KICAD6_FOOTPRINT_DIR}/Crystal.pretty	KiCad		
+1	MountingHole	${KICAD6_FOOTPRINT_DIR}/MountingHole.pretty	KiCad		
+1	Resistor_SMD	${KICAD6_FOOTPRINT_DIR}/Resistor_SMD.pretty	KiCad		
+1	Diode_SMD	${KICAD6_FOOTPRINT_DIR}/Diode_SMD.pretty	KiCad		
+1	atmega32u4-au-and-mu	${KIPRJMOD}/atmega32u4-custom.pretty	KiCad		
+

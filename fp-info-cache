@@ -1,4 +1,4 @@
-1910098660990972
+1911769833142575
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
@@ -6214,6 +6214,13 @@ MX_NEC_bkp
 
 0
 4
+2
+MX_NEC
+mx-nec-alps
+
+
+0
+6
 2
 MountingHole
 MountingHole_2.1mm

@@ -2,9 +2,9 @@
 
 ![Screenshot of PCB](screenshot.png)
 
-USB/QMK atmega32u4 pcb for NEC PC 8801 (NEC vintage linear and possibly equivalent SMK) with added MX support.  Also with WS2812B addressable LED & buzzer support.  
+USB/QMK atmega32u4 pcb for NEC PC 8801 (NEC vintage linear and possibly equivalent SMK) with added MX and Alps support.  Also with WS2812B addressable LED & buzzer support.  
 
-Released without warranty, use at your own risk.  
+Released without warranty, use at your own risk.  Check your layout carefully too.
 
 PRs & feedback welcome!
 
